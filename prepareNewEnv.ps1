@@ -10,3 +10,8 @@ choco install vscode
 choco install docker-desktop
 choco install keepassxc
 choco install keepass-plugin-keepassnatmsg 
+choco install openvpn
+choco install azure-cli
+choco install nodejs
+choco install wsl-ubuntu-2004
+choco install microsoft-teams
