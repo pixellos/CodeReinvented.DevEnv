@@ -15,4 +15,5 @@ choco install azure-cli
 choco install nodejs
 choco install wsl-ubuntu-2004
 choco install microsoft-teams
-choco install openvpn --version=2.4.3
+choco install openvpn
+choco install mqtt-explorer --pre 
